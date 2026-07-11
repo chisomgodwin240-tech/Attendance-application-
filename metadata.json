@@ -1,0 +1,6 @@
+{
+  "name": "Campus Attendance Tracker",
+  "description": "A professional attendance tracking application for higher institutions with QR code scanning, GPS verification, offline persistence, and automated time-tracking rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
